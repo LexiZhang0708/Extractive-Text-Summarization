@@ -1,0 +1,3 @@
+In the experiments, we tested the models on two datasets namely the CNN-Daily Mail and the Reddit TIFU dataset. The Reddit TIFU dataset is imported with Tensorflow Datasets so there is no need to manually upload the test file. On the other hand, the CNN-Daily Mail test samlples in "test.csv" need to be manually uploaded onto Google Drive in order to run the experiments. 
+
+The outputs of the experiments are shown in the output cells from previous runs. To rerun the experiments however, mount Google Drive in Colab notebook and upload "test.csv" onto the same directory as the notebook for the code to import the test data.
